@@ -3,7 +3,9 @@
 
 Inleiding
 Coderingniveau : Blauwe piste
+
 Uitwerking website : 1A
+
 Website keuze : Het na maken van een bestaande website, namelijk; https://www.nike.com/nl/
 
 
