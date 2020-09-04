@@ -1,7 +1,8 @@
 # Procesverslag
 **Auteur:** -Stijn Visser | Klas 209a -
 
-Inleiding
+INLEIDING
+
 Coderingniveau : Blauwe piste
 
 Uitwerking website : 1A
