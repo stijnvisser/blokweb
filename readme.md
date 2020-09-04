@@ -73,7 +73,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-(images/site afbeelding1.png)
+(images/siteafbeelding1.png)
 
 **Breakdown-schets(en):**
 
