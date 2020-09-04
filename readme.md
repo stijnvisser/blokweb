@@ -1,5 +1,11 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** -Stijn Visser | Klas 209a -
+
+Inleiding
+Coderingniveau : Blauwe piste
+Uitwerking website : 1A
+Website keuze : Het na maken van een bestaande website, namelijk; https://www.nike.com/nl/
+
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
