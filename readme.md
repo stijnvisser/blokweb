@@ -64,8 +64,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-[images/afbeelding1.png]
-[images/foto'snikesite/nike1.jpeg]
+(images/afbeelding1.png)
+(images/foto'snikesite/nike1.jpep)
 
 **Breakdown-schets(en):**
 
