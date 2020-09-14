@@ -56,17 +56,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -blauw-
+**Je startniveau:** -kies uit zwart, rood óf blauw-
 
-**Je focus:** -responsive-
+**Je focus:** -kies uit responsive óf surface plane-
 
-**Je opdracht:** -https://www.nike.com/nl/-
+**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
 **Screenshot(s):**
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
-(images/foto'snikesite/nike1.jpeg)
-(images/foto'snikesite/nike1.jpeg)
 
 **Breakdown-schets(en):**
 
