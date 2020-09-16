@@ -38,11 +38,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+- De huiswerkopdrachten gingen zeer goed, alleen had ik nog wel moeite met javascript. Dit blijf ik altijd wel lastig vinden.-
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+--
 
 ### Agenda voor meeting
 
