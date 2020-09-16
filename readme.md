@@ -38,11 +38,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+- De huiswerkopdrachten gingen zeer goed, alleen had ik nog wel moeite met javascript. Dit blijf ik altijd wel lastig vinden.-
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+--
 
 ### Agenda voor meeting
 
@@ -63,6 +63,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
 **Screenshot(s):**
+
+![nike](images/nike.png)
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
 
