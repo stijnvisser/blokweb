@@ -43,7 +43,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 
 ![website-nike](images/website.png)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
 
 ### Agenda voor meeting
 
@@ -67,8 +66,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ![siteafbeelding1](images/siteafbeelding2.png)
 ![siteafbeelding1](images/siteafbeelding3.png)
 ![siteafbeelding1](images/siteafbeelding4.png)
-
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
 
 **Breakdown-schets(en):**
 
