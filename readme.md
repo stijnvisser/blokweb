@@ -42,7 +42,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
---
+![website](images/website.png)
 
 ### Agenda voor meeting
 
