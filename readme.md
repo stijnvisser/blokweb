@@ -42,11 +42,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![website](images/website.png)
+![websitnike](images/website.png)
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+-geen vragen.-
 
 ### Verslag van meeting
 
@@ -67,4 +67,4 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/breakdownschets.png)
+![Mijn brakedownschets](images/breakdownschets.png)
