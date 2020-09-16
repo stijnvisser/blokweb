@@ -42,7 +42,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![website](images/website)
+![website](images/website.png)
 
 ### Agenda voor meeting
 
@@ -51,7 +51,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
-
 
 
 ## Intake (week 1)
