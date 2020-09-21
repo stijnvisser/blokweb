@@ -42,11 +42,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
+<<<<<<< HEAD
 ![website](images/website.png)
+=======
+![website-nike](images/website.png)
+>>>>>>> 5537bd6f590d51af3c2c88d9cdc4b59b7c63b0af
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+-geen vragen.-
 
 ### Verslag van meeting
 
@@ -62,9 +66,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
 **Screenshot(s):**
+<<<<<<< HEAD
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
+=======
+![siteafbeelding1](images/afbeelding1.png)
+![siteafbeelding1](images/siteafbeelding2.png)
+![siteafbeelding1](images/siteafbeelding3.png)
+![siteafbeelding1](images/siteafbeelding4.png)
+>>>>>>> 5537bd6f590d51af3c2c88d9cdc4b59b7c63b0af
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+![Mijn brakedownschets](images/breakdownschets.png)
