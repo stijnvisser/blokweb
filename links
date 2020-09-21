@@ -1,3 +1,220 @@
 //https://www.flaticon.com/search?search-type=icons&word=search&license=&color=&stroke=&current_section=&author_id=&pack_id=&family_id=&style_id=&category_id=
 
 Afbeelding vintage nike sneaker : https://www.zalando.nl/nike-sportswear-air-monarch-iv-sneakers-laag-ni112o02l-q12.html
+
+    <section>
+        <img id="vintagesneaker" src="images/vintagesneaker.png" alt="vintage" />
+        <h1>Naomi overtuigt op flushing meadows</h1>
+        <h2>Drie grote overwinningen. Twee daarvan in Queens. Een invloedrijke stem. Gefeliciteerd Naomi.</h2>
+        <button>shop</button>
+    </section>
+
+    <section>
+        <img id="vintagesneaker" src="images/vintagesneaker.png" alt="vintage" />
+        <h2>Nieuw van nike running</h2>
+        <h1>Find your fast</h1>
+        <ul>
+            <li><button>shop</button></li>
+            <li><button>shop kids</button></li>
+        </ul>
+    </section>
+
+
+ <section>
+        <h1>Trending</h1>
+        <ul>
+            <li>img</li>
+            <li>img</li>
+            <li>img</li>
+        </ul>
+        <ul>
+            <li>
+                <h2>nike react vision</h2>
+            </li>
+            <li><a>$129,99</a></li>
+            <li>
+                <h2>nike air force</h2>
+            </li>
+            <li><a>$99,99</a></li>
+            <li>
+                <h2>nike sportswear down-fill windrunner</h2>
+            </li>
+            <li><a>$189,99</a></li>
+        </ul>
+        <ul>
+            <li>
+                <h3>Herenschoen</h3>
+            </li>
+            <li>
+                <h3>Herenschoen</h3>
+            </li>
+            <li>
+                <h3>Parka met capushon voor heren</h3>
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h1>Geef je looks een boost</h1>
+        <ul>
+            <li>img</li>
+            <li>img</li>
+        </ul>
+        <ul>
+            <li>
+                <h2>vernieuwde klassiekers</h2>
+            </li>
+            <li>
+                <h2>Gear voor level-ups en cooling-downs</h2>
+            </li>
+        </ul>
+        <ul>
+            <li><button>shop</button></li>
+            <li><button>shop</button></li>
+        </ul>
+    </section>
+
+    <section>
+        <ul>
+            <li>
+                <h1>Gear up</h1>
+            </li>
+            <li>
+                <h2>alles bekijken</h2>
+            </li>
+        </ul>
+        <ul>
+            <li>img</li>
+            <li>img</li>
+            <li>img</li>
+        </ul>
+        <ul>
+            <li>
+                <h2>nike metcon 6 FlyEase</h2>
+            </li>
+            <li><a>$129,99</a></li>
+            <li>
+                <h2>Nike Swoosh</h2>
+            </li>
+            <li><a>$34,99</a></li>
+            <li>
+                <h2>nike fast</h2>
+            </li>
+            <li><a>$54,99</a></li>
+        </ul>
+        <ul>
+            <li>
+                <h3>Trainingsschoen voor dames</h3>
+            </li>
+            <li>
+                <h3>Sport-bh met print en medium ondersteuning</h3>
+            </li>
+            <li>
+                <h3>7/8-hardlooptights met print voor dames</h3>
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <img>img<img />
+        <h2>jordan max 200</h2>
+        <h1>MEER AIR, MEER FLAIR.</h1>
+        <button>shop</button>
+    </section>
+    
+        <section>
+        <h1>mis het niet</h1>
+        <ul>
+            <li>img</li>
+            <li>img</li>
+        </ul>
+        <ul>
+            <li>
+                <h2>Jouw blazer, jouw stijl</h2>
+            </li>
+            <li>
+                <h2>Air VaporMax 2020 FLyknit</h2>
+            </li>
+        </ul>
+        <ul>
+            <li><button>shop</button></li>
+            <li><button>shop kids</button></li>
+            <li><button>shop</button></li>
+            <li><button>shop kids</button></li>
+        </ul>
+        </section>
+        
+                <section>
+        <h1>meer nike</h1>
+        <ul>
+            <li>img</li>
+            <li>img</li>
+            <li>img</li>
+        </ul>
+        <ul>
+            <li><button>Heren</button></li>
+            <li><button>Dames</button></li>
+            <li><button>Kids</button></li>
+        </ul>
+        </section>
+        
+        <section>
+            <ul>
+                <li><h1>schoenen</h1></li>
+                <li><h1>Kleding</h1></li>
+                <li><h1>Kids</h1></li>
+            </ul>
+            <ul>
+                <li><h2>sneakers en schoenen</h2></li>
+                <li><h2>Alle kleding</h2></li>
+                <li><h2>Sneakers voor kids</h2></li>
+            </ul>
+            <ul>
+                <li><h2>Voetbalschoenen</h2></li>
+                <li><h2>shirts en tops</h2></li>
+                <li><h2>Rugzakken voor kids</h2></li>
+            </ul>
+            <ul>
+                <li><h2>Hardloopschoenen</h2></li>
+                <li><h2>Broeken en leggings</h2></li>
+                <li><h2>Voetbalschoenen voor Kids</h2></li>
+            </ul>
+            <ul>
+                <li><h2>Netbalschoenen</h2></li>
+                <li><h2>Trainingspakken</h2></li>
+                <li><h2>Hardloopschoenen voor kids</h2></li>
+            </ul>
+        </section>
+        
+</body>
+    <script src="scripts/script.js"></script>
+<footer>
+      <section>
+          <ul>
+              <li><h1>CADEAUBONNEN</h1></li>
+              <li><h1>ZOEK EEN STORE</h1></li>
+              <li><h1>MELD JE AAN VOOR E-MAILS</h1></li>
+              <li><h1>WORD MEMBER</h1></li>
+              <li><h1>STUDENTENKORTING</h1></li>
+          </ul>
+          <ul>
+              <li><h1>HELP</h1></li>
+              <li><h2>Bestelstatus</h2></li>
+              <li><h2>Verzending en levering</h2></li>
+              <li><h2>Retourzending</h2></li>
+              <li><h2>Betaalmethodes</h2></li>
+          </ul>
+          <ul>
+              <li><h1>OVER NIKE</h1></li>
+              <li><h2>Nieuws</h2></li>
+              <li><h2>Werken bij nike</h2></li>
+              <li><h2>Inversteerders</h2></li>
+              <li><h2>Duurzaamheid</h2></li>
+          </ul>
+          <ul>
+              <li>logo twitter</li>
+              <li>logo facebook</li>
+              <li>logo youtube</li>
+              <li>logo Instagram</li>
+          </ul>
+      </section>
