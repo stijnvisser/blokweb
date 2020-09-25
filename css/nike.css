@@ -5,8 +5,6 @@
     text-decoration: none;
 }
 
-main{
-}
 
 ////////////
 //*header*//
@@ -74,12 +72,6 @@ section .firstone, h2{
     padding-left: 1em;
 }
 
-section .firstone, button{
-    font-size: 1em;
-    margin-left: 1em;
-    padding: 0.5em;
-    border-radius: 1em;
-}
 
 .ul2{
     position: absolute;
@@ -88,6 +80,12 @@ section .firstone, button{
     align-content: space-between;
 }
 
+.ul2, button{
+    font-size: 1em;
+    margin-left: 1em;
+    padding: 0.5em;
+    border-radius: 1em;
+}
 ///////////////////////
 //*Secondrealsection*//
 ///////////////////////
@@ -129,8 +127,11 @@ h4{
 }
 
 ///////////////////////
-//*thirthrealsection*//
+//*thirdrealsection*//
 ///////////////////////
+.thirdone{
+    display: block;
+}
 
 h3 {
     padding: 2em;
@@ -139,15 +140,15 @@ h3 {
     color: black;
 }
 
-.thirthone, img{
+.thirdone, img{
     position: relative;
 }
 
-.thirthone, p{
+.thirdone, p{
     position: absolute;
 }
 
-.thirthone, button{
+.thirdone, button{
    position: absolute;
 }
 
