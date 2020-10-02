@@ -37,11 +37,17 @@ Ook ben ik bezig geweest met mijn eerste micro animatie.
 
 **Screenshot(s):**
 
-<<<<<<< HEAD
 ![website](afbeeldingenverslag/scherm1.png)
+![website](afbeeldingenverslag/scherm2.png)
+![website](afbeeldingenverslag/scherm3.png)
+![website](afbeeldingenverslag/scherm4.png)
+![website](afbeeldingenverslag/scherm5.png)
+![website](afbeeldingenverslag/scherm6.png)
+![website](afbeeldingenverslag/scherm7.png)
+![website](afbeeldingenverslag/scherm8.png)
+![website](afbeeldingenverslag/scherm9.png)
 =======
-![website-nike](images/website.png)
->>>>>>> 5537bd6f590d51af3c2c88d9cdc4b59b7c63b0af
+
 
 Agenda vragen
 
