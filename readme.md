@@ -30,8 +30,24 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
 
+Ik heb nu mijn eerste pagina van mijn site zo goed als af. Ik heb de hele pagina responsive gemaakt en alle content aan het geheel toegevoegd.
+Ook ben ik bezig geweest met mijn eerste micro animatie.
+
+**Screenshot(s):**
+
+<<<<<<< HEAD
+![website](images/website.png)
+=======
+![website-nike](images/website.png)
+>>>>>>> 5537bd6f590d51af3c2c88d9cdc4b59b7c63b0af
+
+Agenda vragen
+
+1. javascript slider (nesli)
+2. vraag over de propertie; position fixed & automatische transities van afbeeldingen (stijn)
+3. border menu vraag (nesli
 
 
 ## Voortgang 1 (week 3)
