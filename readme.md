@@ -38,7 +38,7 @@ Ook ben ik bezig geweest met mijn eerste micro animatie.
 **Screenshot(s):**
 
 <<<<<<< HEAD
-![website](images/website.png)
+![website](afbeeldingenverslag/scherm1.png)
 =======
 ![website-nike](images/website.png)
 >>>>>>> 5537bd6f590d51af3c2c88d9cdc4b59b7c63b0af
