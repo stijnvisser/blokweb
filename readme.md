@@ -101,13 +101,9 @@ Agenda vragen
 
 **Je focus:** -responsive-
 
-**Je opdracht:** -
+**Je opdracht:** - https://www.nike.com/nl/
 
 **Screenshot(s):**
-<<<<<<< HEAD
-
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
-=======
 ![siteafbeelding1](images/afbeelding1.png)
 ![siteafbeelding1](images/siteafbeelding2.png)
 ![siteafbeelding1](images/siteafbeelding3.png)
