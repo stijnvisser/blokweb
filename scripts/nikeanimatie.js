@@ -19,6 +19,7 @@ window.onscroll = function () {
 
 };
 
+
 /*bron: https://www.w3schools.com */
 
 var openMenu = document.querySelector('#openbtn');
@@ -26,14 +27,14 @@ var closeMenu = document.querySelector('#closebtn');
 
 function openNav() {
     document.getElementById("mySidenav").style.width = "250px";
-    document.getElementById("main").style.marginRight = "250px";
-    document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+    document.querySelector(".main").style.marginRight = "250px";
+    document.body.style.boxShadow = "rgba(0,0,0,0.4)";
 }
 
 function closeNav() {
-    document.getElementById("mySindenav").style.width = "0";
-    document.getElementById("main").style.marginRight = "0";
-    document.body.style.backgroundColor = "white";
+    document.getElementById("mySidenav").style.width = "0";
+    document.querySelector(".main").style.marginRight = "0";
+    document.body.style.boxShadow = "white";
 }
 
 openMenu.addEventListener("click", openNav);
